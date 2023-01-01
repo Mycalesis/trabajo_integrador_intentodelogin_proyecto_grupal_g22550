@@ -1,4 +1,4 @@
-# proyecto_grupal
+# proyecto_grupal grupo #9 (Aguero - Moreira - Avati)
 Trabajo integrador de los tickets en jsp - queda pendiente el login, solucionar advertencias y pulir desprolijidades del código - trasladar los servlets al proyecto original
 
 
